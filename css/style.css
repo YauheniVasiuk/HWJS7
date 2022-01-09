@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body .homework  {
+    font-size: 16px;
+    font-weight: bold;
+    color: #18c9ff;
+    text-align: center;
+} 
